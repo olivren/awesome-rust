@@ -27,7 +27,7 @@ The goal is to have only projects that are mostly stable and useful to users.
     - [Mobile](#mobile)
     - [Network programming](#network-programming)
     - [Parser](#parser)
-    - [Platform specific](#platform-specific)
+    - [Platform specific](#platform-specific)g
     - [Profiling](#profiling)
     - [Template engine](#template-engine)
     - [Testing](#testing)
@@ -215,7 +215,7 @@ The goal is to have only projects that are mostly stable and useful to users.
 * IUP
   * [dcampbell24/iup-rust](https://github.com/dcampbell24/iup-rust) — [IUP](http://webserver2.tecgraf.puc-rio.br/iup/) bindings [<img src="https://travis-ci.org/dcampbell24/iup-rust.svg?branch=master">](https://travis-ci.org/dcampbell24/iup-rust)
 * GTK+
-  * [rust-gnome/gtk](https://github.com/rust-gnome/gtk) — [GTK+](http://www.gtk.org) bindings [<img src="https://travis-ci.org/rust-gnome/gtk.svg?branch=master">](https://travis-ci.org/rust-gnome/gtk)
+  * [gtk-rs/gtk](https://github.com/gtk-rs/gtk) — [GTK+](http://www.gtk.org) bindings [<img src="https://travis-ci.org/gtk-rs/gtk.svg?branch=master">](https://travis-ci.org/gtk-rs/gtk)
 * ncurses
   * [jeaye/ncurses-rs](https://github.com/jeaye/ncurses-rs) — [ncurses](http://www.gnu.org/software/ncurses/) bindings [<img src="https://travis-ci.org/jeaye/ncurses-rs.svg?branch=master">](https://travis-ci.org/jeaye/ncurses-rs)
 * OpenGL
